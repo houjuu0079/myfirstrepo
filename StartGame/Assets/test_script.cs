@@ -7,7 +7,7 @@ public class test_script : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         Debug.Log("test");
-		
+        Debug.Log("test2UP");
 	}
 	
 	// Update is called once per frame
